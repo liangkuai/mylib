@@ -48,7 +48,7 @@
 - 解决 Redis 缓存穿透问题
 - 黑/白名单
 
-#### 2. 去重
+#### 2. 海量数据去重
 
 - 爬虫对已经爬取过的 URL 去重
 - 根据历史浏览记录，对推荐推送去重
@@ -79,9 +79,10 @@ Redis 4.0 之后提供了 Module（模块/插件） 功能，Redis Modules 让 R
 - 但是如果太少的话，判断的 bit 位数也少，误报率会变高。
 
 
-### 如何删除
+### 改进
 
-- [ ] ...
+- [ ] 统计过滤器（Counting Filter）
+- [ ] 布谷鸟过滤器（Cuckoo Filter）
 
 
 ### 参考
@@ -91,3 +92,5 @@ Redis 4.0 之后提供了 Module（模块/插件） 功能，Redis Modules 让 R
 - [不了解布隆过滤器？一文给你整的明明白白！ - Snailclimb - GitHub](https://github.com/Snailclimb/JavaGuide/blob/master/docs/dataStructures-algorithms/data-structure/bloom-filter.md)
 
 - [Redis(5)——亿级数据过滤和布隆过滤器](https://www.wmyskxz.com/2020/03/11/redis-5-yi-ji-shu-ju-guo-lu-he-bu-long-guo-lu-qi/)
+
+- [布隆过滤器过时了，未来属于布谷鸟过滤器？](https://mp.weixin.qq.com/s/XxY3b5FoVXCvHJWMxQH29g)
