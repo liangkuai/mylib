@@ -30,5 +30,10 @@
 ## 经典题型
 
 ### 位运算
-#### xor 运算
-- [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/) `easy`
+
+- 与运算
+    - [1342. 将数字变成 0 的操作次数](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/) `easy`
+    - [191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/) `easy`
+
+- 异或运算
+    - [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/) `easy`
