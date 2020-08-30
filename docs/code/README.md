@@ -7,6 +7,7 @@
     - 判断奇偶
     - 小写字母转大写
     - 消除数字 n 的二进制表示中的最后一个 1
+    - `(a & b) << 1`：表示两数相加的进位结果
 
 - [x] 或运算
     - 小于等于 n 的最大偶数
@@ -16,6 +17,7 @@
     - `x ^ x = 0`
     - `0 ^ x = x`
     - 字母大小写互转
+    - `a ^ b`：表示无进位加法
     - ~~交换两个数~~
 
 
@@ -41,4 +43,5 @@
     - [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/) `easy`
 
 - 其他
+    - [371. 两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/) `easy`
     - [78. 子集](https://leetcode-cn.com/problems/subsets/) `medium`
