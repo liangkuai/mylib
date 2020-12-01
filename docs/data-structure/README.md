@@ -44,11 +44,9 @@
 
 
 ### 哈希表 (Hash Table)
-
+- [intro](/docs/data-structure/hashtable/README.md)
 - [ ] 哈希函数（哈希算法）
-
 - [ ] 哈希冲突
-
 - [ ] 负载因子 / 扩容机制
 
 
