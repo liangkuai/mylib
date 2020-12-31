@@ -1,7 +1,7 @@
 /* 
  * adlist.h - 通用双向链表实现
  * 
- * 参考自 Redis 4.0.14
+ * 参考自 Redis 1.3.6
  */
 
 /* 节点 */
@@ -15,7 +15,7 @@ typedef struct listNode {
 typedef struct list {
     listNode *head;
     listNode *tail;
-    unsigned long len;
+    unsigned int len;
 } list;
 
 
@@ -27,3 +27,6 @@ typedef struct list {
 #define listPrevNode(n) ((n)->prev)
 #define listNextNode(n) ((n)->next)
 #define listNodeValue(n) ((n)->value)
+
+
+list *listCreate(void);
