@@ -25,7 +25,9 @@
 
 - [ ] [算法](./docs/algorithm/README.md)
 
-- [编码](./docs/code/编码.md)
+- 其他
+    - [性能](./docs/code/性能.md)
+    - [编码](./docs/code/编码.md)
     - [技巧](./docs/code/技巧/README.md)
     - [解题](./docs/code/解题.md)
 
