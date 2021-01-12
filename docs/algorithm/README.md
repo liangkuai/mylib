@@ -1,5 +1,7 @@
 # 算法
 
+### 0. 暴力法（Brute force）
+
 ### 1. 排序
 
 - [intro](./sort/README.md)
@@ -26,8 +28,8 @@
 - 列表
     - [ ] [二分查找](./search/二分查找.md)
 - 树/图
-    - [ ] 深度优先搜索（DFS）
-    - [ ] 广度优先搜索（BFS）
+    - [ ] [深度优先搜索（DFS）](./search/DFS.md)
+    - [ ] [广度优先搜索（BFS）](./search/BFS.md)
     - 回溯算法
 - 字符串
 

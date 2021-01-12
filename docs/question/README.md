@@ -14,3 +14,11 @@
 - [intro](./回文.md)
 - [9. 回文数](https://leetcode-cn.com/problems/palindrome-number/) `easy`
 - [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) `medium`
+
+#### 3. 岛屿问题
+
+- [695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/) `medium`
+
+#### 4. 矩阵
+
+- [240. 搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) `medium`
