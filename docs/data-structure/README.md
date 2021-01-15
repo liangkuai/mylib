@@ -59,8 +59,10 @@
 
 ### 6. 图 (Graph)
 
-- [ ] 无向图
-- [ ] 有向图
+- [intro](/docs/data-structure/graph/README.md)
+    - 无向图
+    - 有向图
+    - 加权图
 
 
 ### 7. 查并集 (Union Find)
