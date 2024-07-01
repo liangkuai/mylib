@@ -30,6 +30,7 @@
     - [编码](./docs/code/编码.md)
     - [技巧](./docs/code/技巧/README.md)
     - [解题](./docs/code/解题.md)
+    - [数学](./docs/code/数学.md)
 
 - [经典题型](./docs/question/README.md)
 

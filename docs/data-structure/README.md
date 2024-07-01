@@ -10,9 +10,8 @@
     - 双向链表
     - 跳跃链表（Skip List）
 
-### 2. 栈（Stack）
+### [2. 栈（Stack）](./stack/栈.md)
 
-- [intro](./stack/栈.md)
 - 单调栈
 - 递归
 
